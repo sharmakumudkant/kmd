@@ -1,6 +1,7 @@
 {
   "comments": [
     {
+      "unresolved": false,
       "key": {
         "uuid": "728e512c_e348f40c",
         "filename": "/COMMIT_MSG",
@@ -20,8 +21,24 @@
         "endChar": 12
       },
       "revId": "9db17832b7c960a102c7a05c6e242640d48733b1",
-      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
-      "unresolved": false
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e6ddcdca_4fefd6c7",
+        "filename": "shiv_First.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1018741
+      },
+      "writtenOn": "2020-12-24T11:00:37Z",
+      "side": 1,
+      "message": "Looks good to me",
+      "revId": "9db17832b7c960a102c7a05c6e242640d48733b1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
     }
   ]
 }
