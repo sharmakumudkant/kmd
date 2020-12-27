@@ -3,6 +3,23 @@
     {
       "unresolved": false,
       "key": {
+        "uuid": "853e1ce2_8791f92b",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1018741
+      },
+      "writtenOn": "2020-12-27T20:51:16Z",
+      "side": 1,
+      "message": "Code looks good to me.",
+      "revId": "9141ffbbe8b02689f7db06e489409cb9277bbe35",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": false,
+      "key": {
         "uuid": "80745e60_5b45e4ba",
         "filename": "/PATCHSET_LEVEL",
         "patchSetId": 1
